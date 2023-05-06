@@ -1,0 +1,152 @@
+2023-05-02 15:31:34 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-02 15:31:35 INFO - Selected tab changed: Masters
+2023-05-02 15:31:53 INFO - Selected tab changed: Services
+2023-05-02 15:31:54 INFO - Selected tab changed: Clients
+2023-05-02 15:31:57 INFO - Button Pressed:Refresh
+2023-05-02 18:45:06 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-02 18:45:08 INFO - Selected tab changed: Masters
+2023-05-02 19:25:10 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-02 19:25:11 INFO - Selected tab changed: Services
+2023-05-02 19:25:13 INFO - Button Pressed:Refresh
+2023-05-02 19:25:14 INFO - Selected tab changed: Masters
+2023-05-02 19:25:15 INFO - Button Pressed:Refresh
+2023-05-02 19:25:15 INFO - Selected tab changed: Clients
+2023-05-02 19:25:16 INFO - Button Pressed:Refresh
+2023-05-02 19:25:40 INFO - Selected tab changed: Masters
+2023-05-02 19:25:40 INFO - Selected tab changed: Clients
+2023-05-02 19:25:42 INFO - Selected tab changed: Masters
+2023-05-02 19:25:42 INFO - Selected tab changed: Clients
+2023-05-02 19:43:11 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-02 19:43:12 INFO - Selected tab changed: Masters
+2023-05-05 15:14:24 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 15:14:26 INFO - Selected tab changed: Masters
+2023-05-05 15:14:29 INFO - Button Pressed:Refresh
+2023-05-05 15:14:31 INFO - Button Pressed:Delete
+2023-05-05 15:14:37 INFO - Selected tab changed: Services
+2023-05-05 15:14:39 INFO - Button Pressed:Refresh
+2023-05-05 15:14:40 INFO - Selected tab changed: Clients
+2023-05-05 15:14:40 INFO - Button Pressed:Refresh
+2023-05-05 15:14:44 INFO - Button Pressed:Delete
+2023-05-05 15:17:09 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 15:18:58 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 15:18:59 INFO - Selected tab changed: Masters
+2023-05-05 15:19:02 INFO - Button Pressed:Add Master
+2023-05-05 15:19:03 INFO - Selected tab changed: Clients
+2023-05-05 15:19:05 INFO - Button Pressed:Add Client
+2023-05-05 15:19:47 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 15:19:48 INFO - Selected tab changed: Services
+2023-05-05 15:19:52 INFO - Selected tab changed: Clients
+2023-05-05 15:19:53 INFO - Button Pressed:Refresh
+2023-05-05 15:20:00 INFO - Button Pressed:Add Client
+2023-05-05 15:20:01 INFO - Button Pressed:Add Client
+2023-05-05 15:22:32 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 15:22:33 INFO - Selected tab changed: Clients
+2023-05-05 15:22:58 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 15:22:59 INFO - Selected tab changed: Masters
+2023-05-05 15:23:26 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 15:23:28 INFO - Selected tab changed: Masters
+2023-05-05 15:27:38 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 15:27:40 INFO - Selected tab changed: Services
+2023-05-05 15:29:03 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 15:29:04 INFO - Selected tab changed: Services
+2023-05-05 15:29:06 INFO - Button Pressed:Refresh
+2023-05-05 15:29:07 INFO - Selected tab changed: Clients
+2023-05-05 15:29:07 INFO - Button Pressed:Refresh
+2023-05-05 15:29:13 INFO - Button Pressed:Delete
+2023-05-05 15:29:14 INFO - Selected tab changed: Masters
+2023-05-05 15:29:16 INFO - Button Pressed:Refresh
+2023-05-05 15:49:49 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 15:50:10 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 15:51:10 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 15:51:32 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 15:52:10 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 15:52:39 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 15:53:00 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 15:53:21 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 15:53:34 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 15:54:52 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 15:58:57 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:01:33 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:01:51 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:03:13 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:04:07 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:07:48 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:09:57 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:14:58 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:15:09 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:16:12 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:16:34 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:17:40 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:17:41 WARN - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'springConfig': warning no match for this type name: org.utils.ui.dialog_windows_manager.dialog_windows [Xlint:invalidAbsoluteTypeName]
+2023-05-05 16:18:00 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:24:02 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:25:19 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:26:58 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:27:15 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:28:51 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:31:14 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:32:09 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:34:15 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:34:57 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:34:58 INFO - Selected tab changed: Services
+2023-05-05 16:35:01 INFO - Selected tab changed: Clients
+2023-05-05 16:35:03 INFO - Button Pressed:Refresh
+2023-05-05 16:35:07 INFO - Button Pressed:Add Client
+2023-05-05 16:35:26 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:35:27 INFO - Selected tab changed: Services
+2023-05-05 16:35:29 INFO - Selected tab changed: Clients
+2023-05-05 16:35:31 INFO - Button Pressed:Add Client
+2023-05-05 16:36:19 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:36:20 INFO - Selected tab changed: Clients
+2023-05-05 16:36:24 INFO - Button Pressed:Add Client
+2023-05-05 16:37:15 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:38:06 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:38:36 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:39:20 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:39:53 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-05 16:44:48 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-06 18:57:04 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-06 19:01:18 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-06 19:01:19 INFO - Selected tab changed: Masters
+2023-05-06 19:21:39 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-06 19:21:41 INFO - Selected tab changed: Masters
+2023-05-06 19:21:43 INFO - Selected tab changed: Services
+2023-05-06 19:21:43 INFO - Selected tab changed: Calendar
+2023-05-06 19:51:49 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-06 19:51:50 INFO - Selected tab changed: Calendar
+2023-05-06 19:51:54 INFO - Selected tab changed: Services
+2023-05-06 19:51:54 INFO - Selected tab changed: Masters
+2023-05-06 19:51:55 INFO - Button Pressed:Refresh
+2023-05-06 19:51:56 INFO - Selected tab changed: Calendar
+2023-05-06 19:52:15 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-06 19:52:17 INFO - Selected tab changed: Masters
+2023-05-06 19:52:29 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-06 19:52:30 INFO - Selected tab changed: Clients
+2023-05-06 19:52:32 INFO - Selected tab changed: Masters
+2023-05-06 19:52:33 INFO - Selected tab changed: Calendar
+2023-05-06 19:53:09 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-06 19:53:10 INFO - Selected tab changed: Masters
+2023-05-06 19:53:11 INFO - Selected tab changed: Calendar
+2023-05-06 20:16:17 INFO - Selected tab changed: Services
+2023-05-06 20:16:19 INFO - Button Pressed:Refresh
+2023-05-06 20:16:29 INFO - Selected tab changed: Masters
+2023-05-06 20:16:30 INFO - Selected tab changed: Clients
+2023-05-06 20:16:30 INFO - Selected tab changed: Calendar
+2023-05-06 20:16:35 INFO - Selected tab changed: Clients
+2023-05-06 20:16:36 INFO - Selected tab changed: Calendar
+2023-05-06 20:16:36 INFO - Selected tab changed: Services
+2023-05-06 20:16:37 INFO - Selected tab changed: Calendar
+2023-05-06 20:20:11 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-06 20:20:13 INFO - Selected tab changed: Masters
+2023-05-06 20:20:17 INFO - Selected tab changed: Calendar
+2023-05-06 20:20:38 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-06 20:20:39 INFO - Selected tab changed: Services
+2023-05-06 20:20:55 INFO - Selected tab changed: Calendar
+2023-05-06 20:23:57 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-06 20:23:58 INFO - Selected tab changed: Services
+2023-05-06 20:24:00 INFO - Selected tab changed: Calendar
+2023-05-06 20:24:54 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-06 20:24:55 INFO - Selected tab changed: Masters
+2023-05-06 20:24:58 INFO - Selected tab changed: Calendar
+2023-05-06 23:46:23 WARN - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2023-05-06 23:46:24 INFO - Selected tab changed: Clients

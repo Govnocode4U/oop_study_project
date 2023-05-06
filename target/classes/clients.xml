@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ClientsCatalog>
+        
+    <Client>
+                
+        <Id>17</Id>
+                
+        <Name>Example5</Name>
+                
+        <Phone>89822029311</Phone>
+                
+        <Email>ex5@ya.ru</Email>
+            
+    </Client>
+    
+    <Client>
+        <Id>19</Id>
+        <Name>example 1</Name>
+        <Phone>89822029311</Phone>
+        <Email>ex1@ya.ru</Email>
+    </Client>
+    <Client>
+        <Id>20</Id>
+        <Name>example 2</Name>
+        <Phone>89822029311</Phone>
+        <Email>ex2@ya.ru</Email>
+    </Client>
+    <Client>
+        <Id>21</Id>
+        <Name>example 3</Name>
+        <Phone>89822029311</Phone>
+        <Email>ex3@ya.ru</Email>
+    </Client>
+</ClientsCatalog>
