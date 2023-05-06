@@ -8,7 +8,7 @@ import org.mockito.junit.MockitoJUnitRunner;
 import ui.TableUIInterface;
 import ui.factory.TableWindowBuilder;
 import ui.ui_constants.ConstantUtils;
-import ui.ui_constants.UiTableConstants;
+import ui.ui_constants.UiConstants;
 
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
@@ -26,9 +26,9 @@ public class TableWindowBuilderTest {
 
     TableUIInterface clientTable = new TableWindowBuilder(
             new JFrame("CLIENT"),
-            ConstantUtils.getValuesForWindow(UiTableConstants.values(), "CLIENT_TITLE"),
-            ConstantUtils.getValuesForWindow(UiTableConstants.values(), "CLIENT_BUTTON"),
-            ConstantUtils.getValuesForWindow(UiTableConstants.values(), "CLIENT_lABEL"),
+            ConstantUtils.getValuesForWindow(UiConstants.values(), "CLIENT_TITLE"),
+            ConstantUtils.getValuesForWindow(UiConstants.values(), "CLIENT_BUTTON"),
+            ConstantUtils.getValuesForWindow(UiConstants.values(), "CLIENT_lABEL"),
             emf
     );
     @Mock

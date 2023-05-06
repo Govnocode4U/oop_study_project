@@ -3,7 +3,7 @@ package ui.ui_constants;
 import java.util.Arrays;
 import java.util.List;
 
-public enum UiTableConstants {
+public enum UiConstants {
     CLIENT_TABLE("ID", "Name", "Phone", "Email"),
     MASTER_TABLE("ID", "Name", "Specialization"),
     SERVICE_TABLE("ID", "Name", "Price"),
@@ -18,7 +18,7 @@ public enum UiTableConstants {
 
     private final List<String> values;
 
-    UiTableConstants(String... values) {
+    UiConstants(String... values) {
         this.values = Arrays.asList(values);
     }
 

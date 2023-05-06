@@ -1,13 +1,15 @@
 package ui;
 
+import ui.dialog_windows_manager.calendar_window.CalendarWindow;
 import ui.factory.TableWindowBuilder;
 import ui.logger.WindowTrackingLogger;
 import ui.ui_constants.ConstantUtils;
-import ui.ui_constants.UiTableConstants;
+import ui.ui_constants.UiConstants;
 
 import javax.persistence.EntityManagerFactory;
 import javax.swing.*;
 import java.awt.*;
+import java.util.Calendar;
 import java.util.Map;
 
 
@@ -21,6 +23,7 @@ import java.util.Map;
 public class MainWindow extends JFrame {
     private final TableUIInterface clientTable;
     private final TableUIInterface mastersTable;
+    private final TableUIInterface serviceTable;
     private final JTabbedPane tabbedPane;
     WindowTrackingLogger windowTrackingLogger = new WindowTrackingLogger();
 
@@ -29,6 +32,7 @@ public class MainWindow extends JFrame {
         // Создание окон для таблицы клиентов и мастеров
         clientTable = createWindow(emf, "CLIENT");
         mastersTable = createWindow(emf, "MASTER");
+        serviceTable = createWindow(emf, "SERVICE");
 
         // Создание вкладок и добавление их в объект JTabbedPane
         tabbedPane = new JTabbedPane();
@@ -49,9 +53,9 @@ public class MainWindow extends JFrame {
         String labelTitle = title + "_LABEL";
         return new TableWindowBuilder(
                 new JFrame(title),
-                ConstantUtils.getValuesForWindow(UiTableConstants.values(), tableTitle),
-                ConstantUtils.getValuesForWindow(UiTableConstants.values(), buttonTitle),
-                ConstantUtils.getValuesForWindow(UiTableConstants.values(), labelTitle),
+                ConstantUtils.getValuesForWindow(UiConstants.values(), tableTitle),
+                ConstantUtils.getValuesForWindow(UiConstants.values(), buttonTitle),
+                ConstantUtils.getValuesForWindow(UiConstants.values(), labelTitle),
                 emf
         );
     }
@@ -59,7 +63,8 @@ public class MainWindow extends JFrame {
     private void addTabsToTabbedPane() {
         Map<String, TableUIInterface> myMap = Map.of(
                 "Clients", clientTable,
-                "Masters", mastersTable
+                "Masters", mastersTable,
+                "Services", serviceTable
         );
 
         myMap.forEach(this::addTab);
